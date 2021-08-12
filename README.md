@@ -1,5 +1,5 @@
 # Airbnb_study
-This repository contains a Course project report: Compare Influencing Factors of Airbnb Penetration in Three U.S. cities, which studies the Airbnb penetration in Chicago, Washington D.C. and Los Angeles. The number of Airbnb listings in each census tract are used to measure the level of Airbnb penetration. Spatial regression models and OLS models are built to explore the influencing factors of Airbnb penetration in the three cities, considering the spatial dependence effect of th Airbnbs.
+This repository contains a ourse project report: Compare Influencing Factors of Airbnb Penetration in Three U.S. cities, which studies the Airbnb penetration in Chicago, Washington D.C. and Los Angeles. The number of Airbnb listings in each census tract are used to measure the level of Airbnb penetration. Spatial regression models and OLS models are built to explore the influencing factors of Airbnb penetration in the three cities, considering the spatial dependence effect of th Airbnbs.
 
 ## Data
 Three catoegories of indicators, including geographic, demographic and socio-economic factors are selected as the potential influencing factors of Airbnb penetration. All of the data of the indicators and Airbnb listings for the three cities are included in this repository. We use data of 2018 to conduct the study.
